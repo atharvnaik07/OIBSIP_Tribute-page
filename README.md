@@ -12,7 +12,7 @@ The objective of this tribute page is to honor the character Tony Stark and show
 
 ## Contents
 
-The tribute page includes the following sections:
+The tribute page includes the following content
 
 1. **Introduction:** Provides a brief overview of Tony Stark's background and his transformation into Iron Man.
 2. **Early Life and Career:** Explores Tony Stark's early life, his genius-level intellect, and his role as the CEO of Stark Industries.
