@@ -38,11 +38,13 @@ This tribute page is inspired by Tony Stark's character, his journey, and the im
 We would like to acknowledge the creators, writers, artists, and actors involved in bringing the character of Tony Stark and Iron Man to life. Their contributions have captivated audiences around the world.
 
 ## Screenshot
+
 ![image](https://github.com/atharvnaik07/atharvnaik07-OIBSIP_Tribute-page/assets/114814921/b8b0cf93-5464-4a1a-80d1-49b42a3997c6)
+
 ![image](https://github.com/atharvnaik07/atharvnaik07-OIBSIP_Tribute-page/assets/114814921/07d6fd6d-dcb0-4b3a-b5e8-ad8192a3599d)
 
 ## Contact
 
-If you have any questions or feedback regarding the tribute page, please feel free to reach out to us at [contact@example.com].
+If you have any questions or feedback regarding the tribute page, please feel free to reach out to us at [atharvnaik91@gmail.com].
 
 Thank you for visiting and celebrating the legacy of Tony Stark - Iron Man!
