@@ -39,10 +39,6 @@ We would like to acknowledge the creators, writers, artists, and actors involved
 
 ## Screenshot
 
-![image](https://github.com/atharvnaik07/atharvnaik07-OIBSIP_Tribute-page/assets/114814921/b8b0cf93-5464-4a1a-80d1-49b42a3997c6)
-
-![image](https://github.com/atharvnaik07/atharvnaik07-OIBSIP_Tribute-page/assets/114814921/07d6fd6d-dcb0-4b3a-b5e8-ad8192a3599d)
-
 ![FireShot Capture 001 - Tribute page - ](https://github.com/atharvnaik07/OIBSIP_Tribute-page/assets/114814921/db6f7b32-abc2-4606-af9d-b072713ab2fd)
 
 
