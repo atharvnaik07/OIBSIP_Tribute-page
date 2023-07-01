@@ -43,6 +43,9 @@ We would like to acknowledge the creators, writers, artists, and actors involved
 
 ![image](https://github.com/atharvnaik07/atharvnaik07-OIBSIP_Tribute-page/assets/114814921/07d6fd6d-dcb0-4b3a-b5e8-ad8192a3599d)
 
+![FireShot Capture 001 - Tribute page - ](https://github.com/atharvnaik07/OIBSIP_Tribute-page/assets/114814921/db6f7b32-abc2-4606-af9d-b072713ab2fd)
+
+
 ## Contact
 
 If you have any questions or feedback regarding the tribute page, please feel free to reach out to us at [atharvnaik91@gmail.com].
